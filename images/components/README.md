@@ -12,4 +12,8 @@ Product photos of the vehicle's components, shown as thumbnails in the README
 | `gy-521.jpeg`        | GY-521 (MPU-6050) gyroscope |
 | `camera.jpg`         | Logitech camera |
 | `battery.png`        | 11.1 V 3S 18650 battery |
-| `jumpers.png`        | Jumper cables |
+| `LM2596.png`        | LM2596 |
+| `Ultrasonic.png`        | Ultrasonic |
+| `Switch.png`        | Switch |
+| `Button.png`        | Button |
+| `Hub USB C.png`        | Hub USB C |
